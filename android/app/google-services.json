@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472742689278",
+    "project_id": "lawn-bowls-marking-app",
+    "storage_bucket": "lawn-bowls-marking-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472742689278:android:45252ad72a211e265268af",
+        "android_client_info": {
+          "package_name": "com.audiocheese.lawnbowls.lawn_bowl_marker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRWGAGU_9JUVlHzGc6xjPHd-M0pEcBdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
